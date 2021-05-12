@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:pulkitsh08@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://pulkitsh08.medium.com/)](https://pulkitsh08.medium.com/)
 
-I'm Pulkit Sharma,  a Full Stack Developer 👨‍💻 and an admirer of beautiful Javascript language. Passionate to develop cool and innovative projects and work in a fast paced environment. Besides programming and development, I have an avid interest in Physics.<br>
+I'm Pulkit Sharma,  a Full Stack Developer 👨‍💻 and an admirer of the beautiful Javascript language. Passionate to develop cool and innovative projects and work in a fast paced environment 🚀. Besides programming and development, I have an avid interest in Physics.<br>
 
 <br>
 
@@ -41,8 +41,8 @@ https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7e
 
 <br>
 
-
 ![Pulkit's github stats](https://github-readme-stats.vercel.app/api?username=Pulkit3234&show_icons=true&theme=dark)
+
 
 - **Talk is cheap, show me the Code** 😉
 
